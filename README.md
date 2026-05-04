@@ -5,10 +5,10 @@
 # Tecnologias: 
 <!-- Linux, JS, Python, Icone de greenhat, gray ou purplehat; wordpress, Figma, DaVince Resolver, Gimp  -->
 
-# Intereses
+# Intereses:
 
 <!-- Edição de video, Redes de computadores, Design, Cybersegurança, Densenvolimento de apps -->
 
-# Contato
+# Contato:
 
 <!-- LinkedIn, Hotmail, Instagram  -->
