@@ -1,5 +1,5 @@
 # Felix aqui wow...
-<p>Fã N1º de StarWars e de outras nerdices</p>
+<p>Fã N1º de LEGO Star Wars, Fullmetal Alchemist e de outras nerdices</p>
 <h4>Dê uma olhada no meu <a href="#"> portfólio </a> </h4>
 
 # Tecnologias: 
